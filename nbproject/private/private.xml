@@ -5,7 +5,9 @@
         <group>
             <file>file:/C:/OpenServer/domains/instabot/index.php</file>
             <file>file:/C:/OpenServer/domains/instabot/core/app.php</file>
-            <file>file:/C:/OpenServer/domains/instabot/core/database.php</file>
+            <file>file:/C:/OpenServer/domains/instabot/view/index.html</file>
+            <file>file:/C:/OpenServer/domains/instabot/html.html</file>
+            <file>file:/C:/OpenServer/domains/instabot/model/ParserModel.php</file>
         </group>
     </open-files>
 </project-private>

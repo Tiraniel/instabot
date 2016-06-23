@@ -31,7 +31,10 @@ namespace Model {
 
             curl_close($ch);
 
-            return $body;
+            $doc = new \DOMDocument();
+            $doc->loadHTML($body);
+            
+            return json_decode($doc->textContent);
         }
 
     }
